@@ -156,7 +156,7 @@ class App:
 
             self.task_info.set("Task Info: %s" % task_name)
 
-        if self.task is not "Select Task" and self.task is not "":
+        if self.task != "Select Task" and self.task != "":
             self.total_time.set("Total Time: %s" % self.get_total_time())
             self.monthly_time.set("Monthly Time: %s" % self.get_monthly_time())
             self.last_used.set("Last Used: %s" % self.get_last_used())
