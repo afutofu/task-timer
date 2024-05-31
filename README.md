@@ -1,6 +1,8 @@
 # Task Timer
 A tool to measure how much time the user has done a particular task / activity
 
+![image](https://github.com/afutofu/task-timer/assets/37662909/786075bd-e79f-417a-8f3f-d92f57e1fa72)
+
 Technologies used:
 
 - [Python](https://www.python.org/)
